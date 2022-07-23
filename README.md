@@ -1,1 +1,1 @@
-# Script-tembak
+# Script
